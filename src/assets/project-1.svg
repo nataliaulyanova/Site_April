@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Luxury residence with garden">
+  <rect width="900" height="1200" fill="#eee6db"/>
+  <rect y="760" width="900" height="440" fill="#28382f"/>
+  <path d="M90 740 L450 410 L810 740 Z" fill="#2b2826"/>
+  <rect x="145" y="710" width="610" height="300" fill="#d8cdbd"/>
+  <rect x="235" y="785" width="145" height="170" fill="#718996"/>
+  <rect x="430" y="760" width="190" height="250" fill="#6e8793"/>
+  <rect x="660" y="810" width="60" height="200" fill="#3f342b"/>
+  <path d="M150 1010 C260 940 370 1030 480 960 C590 895 690 990 810 930 L810 1200 H150 Z" fill="#1d2a24"/>
+  <circle cx="720" cy="245" r="115" fill="#c7a15c" opacity=".55"/>
+</svg>

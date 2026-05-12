@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-label="April Premium">
+  <rect width="360" height="96" fill="none"/>
+  <path d="M38 72 L76 18 L114 72 H95 L76 43 L57 72 Z" fill="currentColor"/>
+  <path d="M134 70 V26 H166 C177 26 185 34 185 45 C185 57 177 65 166 65 H151 V70 Z M151 51 H164 C168 51 171 49 171 45 C171 42 168 40 164 40 H151 Z" fill="currentColor"/>
+  <path d="M204 70 V26 H236 C247 26 255 34 255 45 C255 53 251 59 244 62 L257 70 H236 L226 63 H221 V70 Z M221 50 H234 C238 50 241 48 241 45 C241 42 238 40 234 40 H221 Z" fill="currentColor"/>
+  <path d="M273 70 V26 H291 V70 Z" fill="currentColor"/>
+  <path d="M312 70 V26 H329 V55 H352 V70 Z" fill="currentColor"/>
+</svg>

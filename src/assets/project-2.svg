@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-label="Panoramic penthouse">
+  <rect width="900" height="1200" fill="#dfe7ea"/>
+  <rect y="820" width="900" height="380" fill="#2d3438"/>
+  <path d="M130 490 H770 L705 1010 H195 Z" fill="#c9c1b6"/>
+  <path d="M175 550 H725 V935 H175 Z" fill="#2f4956"/>
+  <g fill="#b8c9cf">
+    <rect x="215" y="595" width="105" height="285"/>
+    <rect x="350" y="595" width="105" height="285"/>
+    <rect x="485" y="595" width="105" height="285"/>
+    <rect x="620" y="595" width="65" height="285"/>
+  </g>
+  <path d="M90 1010 H810 V1065 H90 Z" fill="#b3915a"/>
+  <path d="M0 390 C185 345 330 390 485 345 C635 302 735 330 900 290 V430 C690 475 520 455 350 500 C210 538 95 505 0 545 Z" fill="#ffffff" opacity=".55"/>
+</svg>
